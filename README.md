@@ -1,5 +1,6 @@
 
- Hello,![waving-wave](https://user-images.githubusercontent.com/77299905/191482122-f61188e9-42cf-40f2-be8f-5a310de65cf9.gif)  I am a Web Developer
+ Hello,![wave-hello (1)](https://user-images.githubusercontent.com/77299905/191483101-b0ede4be-feb0-47e0-9b61-9064c51bbcec.gif) I am a Web Developer
+
 
 
 
